@@ -1,1 +1,1 @@
-[Пример использования](https://bungler-notes.ru/programs/beam_site/beam.html)
+[Пример использования](https://grigorenkosergey.github.io/Beam/beam.html)
